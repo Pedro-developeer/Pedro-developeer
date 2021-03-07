@@ -1,4 +1,4 @@
-<img src="http://www.dazeddigital.com/artsandculture/article/17879/1/how-to-code-like-a-pro" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
 <p align="left">
   Olá Meu nome é <strong>Pedro</strong> , atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong> . Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento</strong>.
