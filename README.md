@@ -1,16 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
+<img src="http://www.dazeddigital.com/artsandculture/article/17879/1/how-to-code-like-a-pro" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
 <p align="left">
-  Olá Meu nome é Pedro , atualmente sou estudante de ADS na PUC GOIÁS . Sou apaixonado por tecnologia principalmente na área de desenvolvimento.
+  Olá Meu nome é <strong>Pedro</strong> , atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong> . Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento</strong>.
 Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas com que me deparo e naquilo que aprendi.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Java.</strong>
+  📖 Estudando atualmente: <strong>HTML, CSS, JavaScript, Java.</strong>
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode,InteliJ, GitHub.</strong>
+</p>
+<p align="left">
+  🐧 Sistema Operacional: <strong>Linux Zorin OS 15.3.</strong>
 </p>
 
 <p align="left">
