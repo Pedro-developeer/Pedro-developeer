@@ -5,6 +5,13 @@
 Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas com que me deparo e naquilo que aprendi.
 </p>
 
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode,InteliJ, GitHub.</strong>
+</p>
+<p align="left">
+  🐧 Sistema Operacional: <strong>Linux Zorin OS 15.3.</strong>
+</p>
 <p align="left">
  🐧Estudando Atualmente:
 </p>
@@ -12,13 +19,6 @@ Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas c
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode,InteliJ, GitHub.</strong>
-</p>
-<p align="left">
-  🐧 Sistema Operacional: <strong>Linux Zorin OS 15.3.</strong>
 </p>
 
 <p align="left">
