@@ -6,7 +6,7 @@ Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas c
 </p>
 
 <p align="left">
-  Estudando atualmente: HTML, CSS, JAVA e JAVASCRIPT
+  🐧 Estudando Atualmente: <strong>HTML, CSS, JAVASCRIPT e JAVA.</strong>
 </p>
 
 <p align="left">
