@@ -20,7 +20,10 @@ Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas c
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
+</p>
+<p align="left"> 
+  <stronger> Redes de contato </stronger>
+</p>
 <p align="left">
   <a href="https://www.instagram.com/pedrodeveloper/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
