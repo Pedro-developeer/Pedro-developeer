@@ -10,7 +10,8 @@ Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas c
   💼 Ferramentas: <strong>VSCode,InteliJ, GitHub.</strong>
 </p>
 <p align="left">
-  🐧 Sistema Operacional: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  🐧 Sistema Operacional:
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   
 </p>
