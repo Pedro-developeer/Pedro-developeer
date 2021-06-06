@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
 <p align="left">
-  Olá Meu nome é <strong>Pedro</strong> , atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong> . Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento</strong>.
+  Olá Meu nome é <strong>Pedro</strong> , atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong> . Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento Mobile</strong>.
 Me guio por dois objetivos: Aprender e criar soluções baseadas nos problemas com que me deparo e naquilo que aprendi.
 </p>
 
