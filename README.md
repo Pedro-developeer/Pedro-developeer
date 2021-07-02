@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/iuricode/iuricode/e2c770cc339ae229fb82903c50d343fc4da5d38b/pc.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 <p align="left"> 
   
-  🌎 Olá,atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong>. Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento Mobile</strong>.
+  🌎 Olá, atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong>. Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento Mobile</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Kotlin, Java, AndroidStudio, e Git.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Kotlin, Java, AndroidStudio e Git.</strong>
 </p>
 
 <p align="left">
