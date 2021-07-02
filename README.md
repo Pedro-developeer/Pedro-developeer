@@ -1,6 +1,4 @@
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-
-<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/iuricode/iuricode/e2c770cc339ae229fb82903c50d343fc4da5d38b/pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎Olá,atualmente sou estudante de ADS na <strong>PUC GOIÁS</strong>. Sou apaixonado por tecnologia principalmente na área de <strong>desenvolvimento Mobile</strong>.
