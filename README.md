@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Kotlin, Java, AndroidStudio e Git.</strong>
+  🦄 Habilidades: <strong>Dart, Flutter, Kotlin, Java, AndroidStudio e Git.</strong>
 </p>
 
 <p align="left">
