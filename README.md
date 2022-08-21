@@ -29,5 +29,3 @@
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
-
-[![Pedro-developeer](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-developeer&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
