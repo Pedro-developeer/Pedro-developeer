@@ -29,6 +29,3 @@
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6610F2?style=flat-square&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/pedrodeveloper/)](https://www.instagram.com/pedrodeveloper/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6610F2?style=flat-square&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/pedro-developeer/)](https://www.linkedin.com/in/pedro-developeer/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-6610F2?style=flat-square&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/pvDRtjsw)](https://discord.gg/pvDRtjsw)
