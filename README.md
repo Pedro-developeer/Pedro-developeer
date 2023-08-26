@@ -3,6 +3,8 @@
 <p align="left">Olá, eu sou o Pedro, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento mobile. Atualmente, estou estudando na PUC GOIÁS e aprendendo cada vez mais sobre as ferramentas e linguagens de programação para desenvolver aplicativos inovadores.</p>
 <h2 align="left">🚀 Habilidades Técnicas</h2>
 <p align="left">
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=SwiftUI&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-33B6E9?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-33B6E9?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-33B6E9?style=flat-square&logo=Kotlin&logoColor=white" />
